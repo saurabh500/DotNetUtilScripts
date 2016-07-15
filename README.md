@@ -1,2 +1,4 @@
 # Scripts
-Some automation scripts for CoreFx
+Adding some helpful scripts to work with CoreFx
+
+
